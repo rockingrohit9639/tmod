@@ -1,0 +1,15 @@
+{
+  "name": "twitch-mod-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src",
+  "scripts": {
+    "start": "nodemon ."
+  },
+  "author": "Rohit Saini",
+  "license": "ISC",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "tmi.js": "^1.8.3"
+  }
+}
